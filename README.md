@@ -1,5 +1,8 @@
 # 🌤️ Crypto Weather Correlation Dashboard 📈
 
+<img width="1405" height="746" alt="image" src="https://github.com/user-attachments/assets/958fc55b-9fd4-41b6-a216-f57be1ecad32" />
+
+
 An innovative real-time dashboard that explores fascinating correlations between cryptocurrency market movements and global weather patterns across major financial cities.
 
 ## 🎯 Project Overview
@@ -36,11 +39,10 @@ The dashboard reveals intriguing patterns and correlations, such as how temperat
 
 ### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/crypto-weather-dashboard.git
-   cd crypto-weather-dashboard
-   ```
+1. **Download the project**:
+   - Download `crypto-weather-dashboard.zip` from this repository
+   - Extract the ZIP file to your desired location
+   - Navigate to the extracted folder
 
 2. **Install dependencies**:
    ```bash
@@ -59,6 +61,17 @@ The dashboard reveals intriguing patterns and correlations, such as how temperat
 ```bash
 python crypto_weather_dashboard.py
 ```
+
+## 📦 ZIP File Contents
+
+This repository contains `crypto-weather-dashboard.zip` with the complete project:
+
+- ✅ **All source code** - Flask application and frontend
+- ✅ **`.kiro` directory** - AI development logs and configuration  
+- ✅ **Documentation** - Setup guides and technical details
+- ✅ **Dependencies** - Requirements file for easy installation
+
+**Note**: The `.kiro` directory is intentionally included to demonstrate AI-assisted development workflow.
 
 ## 📊 Dashboard Components
 
@@ -172,13 +185,12 @@ This project was built with significant assistance from **Kiro AI**, demonstrati
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+This project demonstrates AI-assisted development techniques. To explore or extend:
 
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit your changes**: `git commit -m 'Add amazing feature'`
-4. **Push to the branch**: `git push origin feature/amazing-feature`
-5. **Open a Pull Request**
+1. **Download and extract** the ZIP file
+2. **Study the code structure** and implementation patterns
+3. **Experiment with modifications** to learn AI development approaches
+4. **Review `.kiro/` directory** to understand AI assistance workflow
 
 ### Contribution Ideas
 - Add new correlation algorithms
@@ -187,32 +199,6 @@ We welcome contributions! Here's how you can help:
 - Optimize performance
 - Write tests
 - Improve documentation
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **CoinGecko** for providing excellent cryptocurrency API
-- **OpenWeatherMap** for weather data services
-- **Plotly** for amazing visualization capabilities
-- **Flask** community for the robust web framework
-- **Kiro AI** for accelerating development and enabling rapid prototyping
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/crypto-weather-dashboard/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/crypto-weather-dashboard/discussions)
-- **Email**: your.email@example.com
-
-## 🌟 Show Your Support
-
-If you found this project interesting or useful, please consider:
-- ⭐ Starring the repository
-- 🍴 Forking for your own experiments
-- 📢 Sharing with others
-- 🐛 Reporting bugs or suggesting features
 
 ---
 
